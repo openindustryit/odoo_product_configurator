@@ -1,2 +1,2 @@
 # odoo_product_configurator
-configuratore prodotto
+product configurator
