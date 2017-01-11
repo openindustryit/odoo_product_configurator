@@ -1,0 +1,2 @@
+# odoo_product_configurator
+configuratore prodotto
